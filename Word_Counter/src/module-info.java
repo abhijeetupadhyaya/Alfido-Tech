@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Word_Counter {
-}
